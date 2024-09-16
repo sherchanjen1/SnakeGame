@@ -1,6 +1,6 @@
 
 ## 🔗 Link
-https://nirmitraj.github.io/Snake-Game/
+https://sherchanjen1.github.io/SnakeGame/
 
 
 # Snake Game
